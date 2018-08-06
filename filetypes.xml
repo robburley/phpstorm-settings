@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

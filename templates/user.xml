@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="fun" value="public function $FUNCTION$($ARGS$) {&#10;    $CONTENT$&#10;}" description="new public function" toReformat="true" toShortenFQNames="true">
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,3 @@
+<templateSet group="PHP">
+  <template name="fun" value="public function $FUNCTIONNAME($ARGS) {&#10;    $CONTENT&#10;}" description="new public function" toReformat="false" toShortenFQNames="true" />
+</templateSet>
