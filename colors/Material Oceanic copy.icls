@@ -4,7 +4,7 @@
     <property name="created">2018-01-05T10:57:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-10-10T11:52:59</property>
+    <property name="modified">2018-10-10T15:14:40</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -412,7 +412,6 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -448,13 +447,11 @@
     <option name="CSS.IMPORTANT">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
@@ -1523,13 +1520,11 @@
     <option name="MARKDOWN_BLOCK_QUOTE">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_BLOCK_QUOTE_MARKER">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_BOLD">
@@ -1555,13 +1550,11 @@
     <option name="MARKDOWN_CODE_SPAN">
       <value>
         <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_CODE_SPAN_MARKER">
       <value>
         <option name="FOREGROUND" value="546e7a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_EXPLICIT_LINK">
@@ -1665,7 +1658,6 @@
     <option name="MARKDOWN_LIST_MARKER">
       <value>
         <option name="FOREGROUND" value="f07178" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
@@ -2536,7 +2528,6 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="546e7a" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -3319,7 +3310,6 @@
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
@@ -3765,7 +3755,6 @@
     <option name="XML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
