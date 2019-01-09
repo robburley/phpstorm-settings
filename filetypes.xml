@@ -4,7 +4,6 @@
       <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
