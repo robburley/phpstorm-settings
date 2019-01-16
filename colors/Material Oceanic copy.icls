@@ -1,31 +1,11 @@
 <scheme name="Material Oceanic copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-01-05T10:57:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-10-10T15:14:40</property>
+    <property name="modified">2019-01-16T09:08:54</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
