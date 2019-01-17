@@ -45,11 +45,13 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoTest" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
     <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="Macro.Save and Format">
     <keyboard-shortcut first-keystroke="meta s" />
@@ -65,11 +67,15 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="Refresh" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace" />
   <action id="Rerun" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
