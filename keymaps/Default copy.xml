@@ -1,7 +1,16 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateJIRAToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Open" />
