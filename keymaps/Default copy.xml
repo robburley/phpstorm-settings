@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl meta alt f12" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFile">
