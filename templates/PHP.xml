@@ -1,3 +1,11 @@
 <templateSet group="PHP">
   <template name="fun" value="public function $FUNCTIONNAME($ARGS) {&#10;    $CONTENT&#10;}" description="new public function" toReformat="false" toShortenFQNames="true" />
+  <template name="cmap" value="$VAR$-&gt;map(function($SINGLE$){&#10;    $STATMENT$;&#10;});" description="Collection Map" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SINGLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STATMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
