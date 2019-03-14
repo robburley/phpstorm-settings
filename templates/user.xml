@@ -10,4 +10,21 @@
       <option name="PHP String Literal" value="false" />
     </context>
   </template>
+  <template name="freshlorem" value="Now this is a story all about how&#10;My life got flipped-turned upside down&#10;And I'd like to take a minute&#10;Just sit right there&#10;I'll tell you how I became the prince of a town called Bel-Air&#10;&#10;In west Philadelphia born and raised&#10;On the playground was where I spent most of my days&#10;Chillin' out maxin' relaxin' all cool&#10;And all shooting some b-ball outside of the school&#10;When a couple of guys who were up to no good&#10;Started making trouble in my neighborhood&#10;I got in one little fight and my mom got scared&#10;She said, &quot;You're movin' with your auntie and uncle in Bel-Air.&quot;&#10;&#10;I begged and pleaded with her day after day&#10;But she packed my suitcase and sent me on my way&#10;She gave me a kiss and then she gave me my ticket.&#10;I put my Walkman on and said, &quot;I might as well kick it.&quot;&#10;&#10;First class, yo, this is bad&#10;Drinking orange juice out of a champagne glass.&#10;Is this what the people of Bel-Air living like?&#10;Hmm, this might be alright.&#10;&#10;But wait I hear they're prissy, bourgeois, all that&#10;Is this the type of place that they just send this cool cat?&#10;I don't think so&#10;I'll see when I get there&#10;I hope they're prepared for the prince of Bel-Air&#10;&#10;Well, the plane landed and when I came out&#10;There was a dude who looked like a cop standing there with my name out&#10;I ain't trying to get arrested yet&#10;I just got here&#10;I sprang with the quickness like lightning, disappeared&#10;&#10;I whistled for a cab and when it came near&#10;The license plate said &quot;Fresh&quot; and it had dice in the mirror&#10;If anything I could say that this cab was rare&#10;But I thought, &quot;Nah, forget it.&quot;&#10;– &quot;Yo, home to Bel-Air.&quot;&#10;&#10;I pulled up to the house about 7 or 8&#10;And I yelled to the cabbie, &quot;Yo home smell ya later.&quot;&#10;I looked at my kingdom&#10;I was finally there&#10;To sit on my throne as the Prince of Bel-Air" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HAML" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>

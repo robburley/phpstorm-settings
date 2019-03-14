@@ -1,7 +1,16 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateJIRAToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Open" />
@@ -22,6 +31,9 @@
   <action id="EditorEscape">
     <keyboard-shortcut first-keystroke="escape" />
     <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="ctrl meta alt f12" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
@@ -45,11 +57,13 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="GotoTest" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta #10000a7" />
     <keyboard-shortcut first-keystroke="#10000a7" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="Macro.Save and Format">
     <keyboard-shortcut first-keystroke="meta s" />
@@ -65,11 +79,15 @@
     <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="Refresh" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Replace" />
   <action id="Rerun" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
