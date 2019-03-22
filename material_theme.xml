@@ -1,11 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="allowDataCollection" value="true" />
     <option name="statusBarTheme" value="false" />
     <option name="settingsSelectedTab" value="6" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="-7a1e2b52:163f8ee89c5:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
