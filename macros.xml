@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Save and Format">
-      <action id="ReformatCode" />
-      <action id="Tool_External Tools_PHP CS FIXER" />
-      <action id="SaveAll" />
-    </macro>
-  </component>
-</application>
