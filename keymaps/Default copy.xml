@@ -1,35 +1,10 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
-  <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 9" />
-    <keyboard-shortcut first-keystroke="shift meta 9" />
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
   <action id="ChangesView.GroupBy.Directory" />
-  <action id="CompareTwoFiles" />
-  <action id="Console.TableResult.CompareCells" />
-  <action id="Diff.ShowDiff" />
-  <action id="Diff.ShowSettingsPopup" />
-  <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
-  <action id="FileChooser.GotoDesktop" />
-  <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="SendEOF" />
   <action id="TodoViewGroupByShowPackages" />
-  <action id="Uml.ShowDiff" />
 </keymap>
