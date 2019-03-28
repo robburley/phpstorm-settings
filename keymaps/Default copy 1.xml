@@ -10,12 +10,14 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="DecrementWindowHeight" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
@@ -46,6 +48,7 @@
     <keyboard-shortcut first-keystroke="shift meta page_up" />
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -62,6 +65,9 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="Macro.Save and Format">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ParameterInfo" />
@@ -77,12 +83,18 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SaveAll" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -96,4 +108,5 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="hg4idea.QRefresh" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
