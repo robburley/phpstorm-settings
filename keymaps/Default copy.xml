@@ -20,9 +20,6 @@
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="IncrementWindowHeight" />
-  <action id="Macro.Save and Format">
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="ParameterInfo" />
