@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
@@ -46,9 +47,14 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="GotoRelated" />
   <action id="GotoSymbol">
@@ -58,6 +64,7 @@
   <action id="IncrementWindowHeight" />
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="ReplaceInPath">
@@ -79,6 +86,7 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="Uml.ShowDiff" />
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
