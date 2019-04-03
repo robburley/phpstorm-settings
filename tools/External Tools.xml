@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
-  <tool name="PHP CS FIXER" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="PHP CS FIXER" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/usr/local/bin/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --rules=&quot;@PSR2,blank_line_after_opening_tag,blank_line_before_return,blank_line_before_statement,elseif,lowercase_cast,lowercase_constants,lowercase_keywords,new_with_braces,ordered_imports,single_quote,trailing_comma_in_multiline_array,no_unused_imports&quot;" />
+      <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --rules=&quot;@PSR2,blank_line_after_opening_tag,blank_line_before_return,blank_line_before_statement,elseif,lowercase_cast,lowercase_constants,lowercase_keywords,new_with_braces,ordered_imports,single_quote,trailing_comma_in_multiline_array,no_unused_imports,align_double_arrow&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
