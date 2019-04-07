@@ -66,6 +66,9 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="Macro.Save Optimised">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="Macro.Save and Format">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
