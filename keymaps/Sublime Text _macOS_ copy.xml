@@ -11,11 +11,26 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="CollapseAllRegions" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="EditorDeleteToLineEnd" />
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="ExpandAllRegions" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
@@ -23,6 +38,13 @@
     <mouse-shortcut keystroke="button2" />
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="meta alt v" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
