@@ -24,5 +24,8 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>
