@@ -17,6 +17,7 @@
   <action id="CollapseAllRegions" />
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorDeleteToLineEnd" />
   <action id="EditorDeleteToLineStart">
@@ -31,13 +32,6 @@
   <action id="ExpandAllRegions" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="meta g" />
-  </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="meta alt down" />
-    <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="shift meta button1" />
-    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="GotoSymbol" />
   <action id="PasteMultiple">
