@@ -15,6 +15,14 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="CollapseAllRegions" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="EditorDeleteToLineEnd" />
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta back_space" />
