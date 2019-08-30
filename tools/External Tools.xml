@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="PHP CS FIXER" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="PHP CS FIXER" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
       <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --config /Users/rob.burley/.php_cs" />
