@@ -4,5 +4,10 @@
       <action id="Tool_External Tools_PHP CS FIXER" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Format and Save All">
+      <action id="Tool_External Tools_PHP CS FIXER" />
+      <action id="ActivateRunToolWindow" />
+      <action id="SaveAll" />
+    </macro>
   </component>
 </application>
