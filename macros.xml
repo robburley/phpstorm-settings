@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="PHP CS FIXER AND SAVE">
+      <action id="Tool_External Tools_PHP CS FIXER" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
