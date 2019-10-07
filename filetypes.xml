@@ -4,14 +4,15 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="php_cs" type="PHP" />
-      <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
-      <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
-      <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
+      <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
+      <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
