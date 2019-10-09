@@ -1,10 +1,13 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Save Optimised">
-      <action id="SaveAll" />
-      <action id="ReformatCode" />
-      <action id="OptimizeImports" />
+    <macro name="PHP CS FIXER AND SAVE">
       <action id="Tool_External Tools_PHP CS FIXER" />
+      <action id="SaveAll" />
+    </macro>
+    <macro name="Format and Save All">
+      <action id="Tool_External Tools_PHP CS FIXER" />
+      <action id="ActivateRunToolWindow" />
+      <action id="SaveAll" />
     </macro>
   </component>
 </application>
