@@ -1,10 +1,4 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="0704c9b0-9d80-4873-8b02-237195769bcb" name="PHP" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
@@ -13,15 +7,16 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.16/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.16/bin/php" path_separator=":" version="7.2.16">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-mailparse.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.4.0/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.4.0/bin/php" path_separator=":" version="7.4.0">
+          <additional_php_ini>/usr/local/etc/php/7.4/conf.d/ext-opcache.ini, /usr/local/etc/php/7.4/conf.d/php-memory-limits.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.16/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.4.0/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
             <extension name="Core" />
+            <extension name="FFI" />
             <extension name="PDO" />
             <extension name="PDO_ODBC" />
             <extension name="Phar" />
@@ -50,7 +45,6 @@
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
-            <extension name="mailparse" />
             <extension name="mbstring" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
@@ -79,7 +73,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="wddx" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
