@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
+      <mapping pattern="feed-errored.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
