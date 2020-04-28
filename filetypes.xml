@@ -9,6 +9,7 @@
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
       <mapping pattern="supervisor-laravel" type="PLAIN_TEXT" />
+      <mapping pattern="cron-laravel" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
