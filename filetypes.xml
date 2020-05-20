@@ -8,6 +8,7 @@
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
+      <mapping pattern="interact" type="PLAIN_TEXT" />
       <mapping pattern="supervisor-laravel" type="PLAIN_TEXT" />
       <mapping pattern="cron-laravel" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
