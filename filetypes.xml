@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Untitled" type="JSON" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern="cron-laravel" type="PLAIN_TEXT" />
       <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
