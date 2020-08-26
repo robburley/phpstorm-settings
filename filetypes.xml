@@ -12,6 +12,7 @@
       <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
       <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
