@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV" />
+      <mapping ext="csv" type="CSV file" />
       <mapping pattern="Untitled" type="JSON" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern="cron-laravel" type="PLAIN_TEXT" />
