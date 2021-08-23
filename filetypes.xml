@@ -5,13 +5,13 @@
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern="cron-laravel" type="PLAIN_TEXT" />
       <mapping pattern="footer-notifications.blade.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env-prod" type="PLAIN_TEXT" />
-      <mapping pattern="feed-errored.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="supervisor-laravel" type="PLAIN_TEXT" />
+      <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
       <mapping pattern="interact" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.cache" type="PLAIN_TEXT" />
-      <mapping pattern="_theme-variables.scss" type="PLAIN_TEXT" />
+      <mapping pattern="feed-errored.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="msg" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
