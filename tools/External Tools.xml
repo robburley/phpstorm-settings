@@ -2,7 +2,7 @@
   <tool name="PHP CS FIXER" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
-      <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --config /Users/rob.burley/Projects/Coding-Standards/.php_cs --using-cache no" />
+      <option name="PARAMETERS" value="fix $FileDir$/$FileName$ --config /Users/rob.burley/Projects/Coding-Standards/.php_cs --using-cache=no" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
